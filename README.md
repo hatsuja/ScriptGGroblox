@@ -17,7 +17,10 @@ Este proyecto aplica conceptos fundamentales de **Álgebra Lineal** (matrices de
 Cuando el avatar supera el bloque número 20, el algoritmo probabilístico empieza a intercalar celdas con estado de trampa (rojas):
 
 
-https://github.com/user-attachments/assets/796c14b2-33cb-4ccf-a192-0685c34d37ae
+
+https://github.com/user-attachments/assets/58c33e6a-c9e1-4889-b277-1f0fa21a4dfb
+
+
 
 
 ### Google Colab / NumPy
