@@ -32,12 +32,14 @@ $$\begin{pmatrix} X \\ Y \\ Z \end{pmatrix} = \begin{pmatrix} 4 & 0 \\ 0 & 4 \en
 ### Renderizado Físico 3D (Roblox Studio)
 Cuando el avatar supera el bloque número 20, el algoritmo probabilístico empieza a intercalar celdas con estado de trampa (rojas):
 
-https://github.com/user-attachments/assets/95e23dda-a2b8-443c-86ad-b5f5f2327267
+
+https://github.com/user-attachments/assets/796c14b2-33cb-4ccf-a192-0685c34d37ae
+
 
 ### Validación Analítica (Google Colab / NumPy)
 Proyección cartesiana bidimensional que demuestra la correcta distribución de las celdas numéricas leídas desde la memoria por la CPU:
 
-<img width="1272" height="493" alt="Proyección Cartesiana de la Matriz" src="https://github.com/user-attachments/assets/d22bb4 -a5b0-4b0e-94b8-dd372fe66d93" />
+<img width="1272" height="493" alt="Captura desde 2026-05-19 23-05-42" src="https://github.com/user-attachments/assets/b201b557-62ba-43b2-adc9-7ae3f3fc0adc" />
 
 ---
 
