@@ -6,7 +6,7 @@ Este proyecto aplica conceptos fundamentales de **Álgebra Lineal** (matrices de
 
 ## 🛠️ Acceso al Código Fuente
 
-Usa los siguientes botones para navegar directamente a los fragmentos de código del proyecto:
+Botones para navegar directamente a los fragmentos de código del proyecto:
 
 [![Lua Code](https://img.shields.io/badge/Código_en_Roblox-Lua-blue?style=for-the-badge&logo=lua&logoColor=white)](./generacion.lua)
 [![Python Code](https://img.shields.io/badge/Código_en_Colab-Python-green?style=for-the-badge&logo=python&logoColor=white)](./generacion.py)
@@ -43,8 +43,3 @@ Proyección cartesiana bidimensional que demuestra la correcta distribución de 
 
 ---
 
-## 🎓 Autores
-* **Desarrollador:** Lex Hatsu (hatsuja)
-* **Asignatura:** Álgebra Lineal - Ingeniería en Computación
-* **Institución:** Universidad Nacional de Loja (UNL)
-* **Docente:** Edwin René Guamán Quinche
