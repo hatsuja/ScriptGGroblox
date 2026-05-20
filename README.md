@@ -24,9 +24,11 @@ https://github.com/user-attachments/assets/58c33e6a-c9e1-4889-b277-1f0fa21a4dfb
 
 
 ### Google Colab / NumPy
-Proyección cartesiana bidimensional que demuestra la correcta distribución de las celdas numéricas leídas desde la memoria por la CPU:
+Proyección cartesiana bidimensional que demuestra la correcta distribución de loa bloques
 
-<img width="1272" height="493" alt="Captura desde 2026-05-19 23-05-42" src="https://github.com/user-attachments/assets/b201b557-62ba-43b2-adc9-7ae3f3fc0adc" />
+<img width="1284" height="448" alt="Captura desde 2026-05-20 16-56-37" src="https://github.com/user-attachments/assets/792ee8b5-be78-4a44-96b7-ff555dd257a1" />
+:
+
 
 ---
 
