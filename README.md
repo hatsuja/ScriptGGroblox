@@ -29,8 +29,8 @@ https://github.com/user-attachments/assets/8209c4ad-27ab-4309-8767-f4b6db325a91
 
 
 
-### Google Colab / NumPy
-Proyección cartesiana bidimensional que demuestra la correcta distribución de loa bloques
+### Google Colab 
+Proyección cartesiana bidimensional que demuestra la correcta distribución de los bloques
 
 <img width="1284" height="448" alt="Captura desde 2026-05-20 16-56-37" src="https://github.com/user-attachments/assets/792ee8b5-be78-4a44-96b7-ff555dd257a1" />
 :
